@@ -1,0 +1,15 @@
+.page-header h1 {
+  margin-left: 200px;
+  color: #00c680;
+}
+body form {
+  width: 90%;
+  margin: 0px auto;
+}
+#preview, .img, img {
+  width:200px;
+  height:200px;
+}
+#preview {
+  border:1px solid #000;
+}

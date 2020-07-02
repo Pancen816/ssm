@@ -1,0 +1,15 @@
+.page-header h1 {
+  margin-left: 200px;
+  color: #00c680;
+}
+body form {
+  width: 90%;
+  margin: 0px auto;
+}
+body #page {
+    width: 90%;
+    margin: 0px auto;
+}
+.table tr{
+	width:700px !important;
+}

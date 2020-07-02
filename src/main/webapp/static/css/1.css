@@ -1,0 +1,17 @@
+#user {
+  width: 500px;
+  margin: 0px auto ;
+  padding-top: 20px;
+}
+#user input {
+  width: 300px;
+  margin-left: 50px;
+}
+#user label {
+  color: #122b40;
+}
+.page-header h1 {
+  margin-left: 200px;
+  color: #00c680;
+}
+
